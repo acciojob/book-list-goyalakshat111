@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+#book-list{
+    width: 100%;
+	border-collapse:collapse
+}
+#book-list th, td {
+    border: 1px solid black; 
+    padding: 10px; 
+    text-align: left; 
+}
